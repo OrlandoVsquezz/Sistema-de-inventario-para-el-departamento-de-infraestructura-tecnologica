@@ -63,9 +63,15 @@ namespace Vistas.Properties {
         /// <summary>
         ///   Busca un recurso adaptado de tipo System.Drawing.Bitmap.
         /// </summary>
+<<<<<<< HEAD
         internal static System.Drawing.Bitmap Group_Message {
             get {
                 object obj = ResourceManager.GetObject("Group Message", resourceCulture);
+=======
+        internal static System.Drawing.Bitmap Group_18 {
+            get {
+                object obj = ResourceManager.GetObject("Group 18", resourceCulture);
+>>>>>>> 86041895b31af44bff0bc256319bee10ec97a5f5
                 return ((System.Drawing.Bitmap)(obj));
             }
         }
@@ -73,9 +79,15 @@ namespace Vistas.Properties {
         /// <summary>
         ///   Busca un recurso adaptado de tipo System.Drawing.Bitmap.
         /// </summary>
+<<<<<<< HEAD
         internal static System.Drawing.Bitmap window_maximize_icon_181228__1_ {
             get {
                 object obj = ResourceManager.GetObject("window_maximize_icon_181228 (1)", resourceCulture);
+=======
+        internal static System.Drawing.Bitmap icons8_alta_importancia_60 {
+            get {
+                object obj = ResourceManager.GetObject("icons8-alta-importancia-60", resourceCulture);
+>>>>>>> 86041895b31af44bff0bc256319bee10ec97a5f5
                 return ((System.Drawing.Bitmap)(obj));
             }
         }
@@ -83,9 +95,15 @@ namespace Vistas.Properties {
         /// <summary>
         ///   Busca un recurso adaptado de tipo System.Drawing.Bitmap.
         /// </summary>
+<<<<<<< HEAD
         internal static System.Drawing.Bitmap window_restore_icon_181231__1_ {
             get {
                 object obj = ResourceManager.GetObject("window_restore_icon_181231 (1)", resourceCulture);
+=======
+        internal static System.Drawing.Bitmap icons8_comprobado_60 {
+            get {
+                object obj = ResourceManager.GetObject("icons8-comprobado-60", resourceCulture);
+>>>>>>> 86041895b31af44bff0bc256319bee10ec97a5f5
                 return ((System.Drawing.Bitmap)(obj));
             }
         }
@@ -93,9 +111,15 @@ namespace Vistas.Properties {
         /// <summary>
         ///   Busca un recurso adaptado de tipo System.Drawing.Bitmap.
         /// </summary>
+<<<<<<< HEAD
         internal static System.Drawing.Bitmap windowclose_104378__1_ {
             get {
                 object obj = ResourceManager.GetObject("windowclose_104378 (1)", resourceCulture);
+=======
+        internal static System.Drawing.Bitmap icons8_error_15 {
+            get {
+                object obj = ResourceManager.GetObject("icons8-error-15", resourceCulture);
+>>>>>>> 86041895b31af44bff0bc256319bee10ec97a5f5
                 return ((System.Drawing.Bitmap)(obj));
             }
         }
@@ -103,9 +127,15 @@ namespace Vistas.Properties {
         /// <summary>
         ///   Busca un recurso adaptado de tipo System.Drawing.Bitmap.
         /// </summary>
+<<<<<<< HEAD
         internal static System.Drawing.Bitmap windowminimize_104316 {
             get {
                 object obj = ResourceManager.GetObject("windowminimize_104316", resourceCulture);
+=======
+        internal static System.Drawing.Bitmap Line_3 {
+            get {
+                object obj = ResourceManager.GetObject("Line 3", resourceCulture);
+>>>>>>> 86041895b31af44bff0bc256319bee10ec97a5f5
                 return ((System.Drawing.Bitmap)(obj));
             }
         }

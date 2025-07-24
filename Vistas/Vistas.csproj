@@ -35,6 +35,7 @@
   <ItemGroup>
     <Reference Include="System" />
     <Reference Include="System.Core" />
+    <Reference Include="System.Windows.Forms.DataVisualization" />
     <Reference Include="System.Xml.Linq" />
     <Reference Include="System.Data.DataSetExtensions" />
     <Reference Include="Microsoft.CSharp" />
@@ -114,6 +115,7 @@
     </Compile>
     <Compile Include="Program.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
+<<<<<<< HEAD
     <EmbeddedResource Include="Formularios\frmBienvenidoDIT.resx">
       <DependentUpon>frmBienvenidoDIT.cs</DependentUpon>
     </EmbeddedResource>
@@ -125,6 +127,19 @@
     </EmbeddedResource>
     <EmbeddedResource Include="Formularios\frmInventarioJefatura.resx">
       <DependentUpon>frmInventarioJefatura.cs</DependentUpon>
+=======
+    <EmbeddedResource Include="Formularios\frmConsumo.resx">
+      <DependentUpon>frmConsumo.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Formularios\frmLogin.resx">
+      <DependentUpon>frmLogin.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Formularios\frmLoginCorrecto.resx">
+      <DependentUpon>frmLoginCorrecto.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Formularios\frmLoginError.resx">
+      <DependentUpon>frmLoginError.cs</DependentUpon>
+>>>>>>> 86041895b31af44bff0bc256319bee10ec97a5f5
     </EmbeddedResource>
     <EmbeddedResource Include="Properties\Resources.resx">
       <Generator>ResXFileCodeGenerator</Generator>
@@ -170,6 +185,21 @@
   </ItemGroup>
   <ItemGroup>
     <None Include="imagenes\Group Message.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Line 3.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Group 18.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\icons8-error-15.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\icons8-alta-importancia-60.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\icons8-comprobado-60.png" />
   </ItemGroup>
   <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
 </Project>

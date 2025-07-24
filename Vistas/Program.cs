@@ -17,7 +17,11 @@ namespace Vistas
         {
             Application.EnableVisualStyles();
             Application.SetCompatibleTextRenderingDefault(false);
+<<<<<<< HEAD
             Application.Run(new frmInventarioDIT());
+=======
+            Application.Run(new frmConsumo());
+>>>>>>> 86041895b31af44bff0bc256319bee10ec97a5f5
         }
     }
 }

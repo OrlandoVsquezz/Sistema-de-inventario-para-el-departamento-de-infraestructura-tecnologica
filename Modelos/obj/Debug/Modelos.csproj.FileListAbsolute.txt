@@ -1,6 +1,15 @@
+<<<<<<< HEAD
 C:\Users\perez\OneDrive\Desktop\Sistema de Inventario Departamento de Infraestructura Tecnologica\Modelos\bin\Debug\Modelos.dll
 C:\Users\perez\OneDrive\Desktop\Sistema de Inventario Departamento de Infraestructura Tecnologica\Modelos\bin\Debug\Modelos.pdb
 C:\Users\perez\OneDrive\Desktop\Sistema de Inventario Departamento de Infraestructura Tecnologica\Modelos\obj\Debug\Modelos.csproj.AssemblyReference.cache
 C:\Users\perez\OneDrive\Desktop\Sistema de Inventario Departamento de Infraestructura Tecnologica\Modelos\obj\Debug\Modelos.csproj.CoreCompileInputs.cache
 C:\Users\perez\OneDrive\Desktop\Sistema de Inventario Departamento de Infraestructura Tecnologica\Modelos\obj\Debug\Modelos.dll
 C:\Users\perez\OneDrive\Desktop\Sistema de Inventario Departamento de Infraestructura Tecnologica\Modelos\obj\Debug\Modelos.pdb
+=======
+C:\Users\danie\Desktop\Sistema-de-inventario-para-el-departamento-de-infraestructura-tecnologica\Modelos\bin\Debug\Modelos.dll
+C:\Users\danie\Desktop\Sistema-de-inventario-para-el-departamento-de-infraestructura-tecnologica\Modelos\bin\Debug\Modelos.pdb
+C:\Users\danie\Desktop\Sistema-de-inventario-para-el-departamento-de-infraestructura-tecnologica\Modelos\obj\Debug\Modelos.csproj.AssemblyReference.cache
+C:\Users\danie\Desktop\Sistema-de-inventario-para-el-departamento-de-infraestructura-tecnologica\Modelos\obj\Debug\Modelos.csproj.CoreCompileInputs.cache
+C:\Users\danie\Desktop\Sistema-de-inventario-para-el-departamento-de-infraestructura-tecnologica\Modelos\obj\Debug\Modelos.dll
+C:\Users\danie\Desktop\Sistema-de-inventario-para-el-departamento-de-infraestructura-tecnologica\Modelos\obj\Debug\Modelos.pdb
+>>>>>>> 86041895b31af44bff0bc256319bee10ec97a5f5
