@@ -3,6 +3,10 @@
   "WorkspaceRootPath": "C:\\Users\\danie\\OneDrive\\Desktop\\Sistema-de-inventario-para-el-departamento-de-infraestructura-tecnologica\\",
   "Documents": [
     {
+      "AbsoluteMoniker": "D:0:0:{7BAD4987-287B-4025-9131-59B43A434EF4}|Modelos\\Modelos.csproj|c:\\users\\danie\\onedrive\\desktop\\sistema-de-inventario-para-el-departamento-de-infraestructura-tecnologica\\modelos\\conexion\\conexion.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7BAD4987-287B-4025-9131-59B43A434EF4}|Modelos\\Modelos.csproj|solutionrelative:modelos\\conexion\\conexion.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{4E25DF80-23A1-4C99-8052-ACFA19BE8221}|Vistas\\Vistas.csproj|c:\\users\\danie\\onedrive\\desktop\\sistema-de-inventario-para-el-departamento-de-infraestructura-tecnologica\\vistas\\formularios\\frmconsumo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
       "RelativeMoniker": "D:0:0:{4E25DF80-23A1-4C99-8052-ACFA19BE8221}|Vistas\\Vistas.csproj|solutionrelative:vistas\\formularios\\frmconsumo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
     },
@@ -26,11 +30,24 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 1,
+          "SelectedChildIndex": 0,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 0,
+              "Title": "conexion.cs",
+              "DocumentMoniker": "C:\\Users\\danie\\OneDrive\\Desktop\\Sistema-de-inventario-para-el-departamento-de-infraestructura-tecnologica\\Modelos\\Conexion\\conexion.cs",
+              "RelativeDocumentMoniker": "Modelos\\Conexion\\conexion.cs",
+              "ToolTip": "C:\\Users\\danie\\OneDrive\\Desktop\\Sistema-de-inventario-para-el-departamento-de-infraestructura-tecnologica\\Modelos\\Conexion\\conexion.cs",
+              "RelativeToolTip": "Modelos\\Conexion\\conexion.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-24T07:39:14.216Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
               "Title": "Program.cs",
               "DocumentMoniker": "C:\\Users\\danie\\OneDrive\\Desktop\\Sistema-de-inventario-para-el-departamento-de-infraestructura-tecnologica\\Vistas\\Program.cs",
               "RelativeDocumentMoniker": "Vistas\\Program.cs",
@@ -43,19 +60,19 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 1,
               "Title": "frmConsumo.cs [Dise\u00F1o]",
               "DocumentMoniker": "C:\\Users\\danie\\OneDrive\\Desktop\\Sistema-de-inventario-para-el-departamento-de-infraestructura-tecnologica\\Vistas\\Formularios\\frmConsumo.cs",
               "RelativeDocumentMoniker": "Vistas\\Formularios\\frmConsumo.cs",
-              "ToolTip": "C:\\Users\\danie\\OneDrive\\Desktop\\Sistema-de-inventario-para-el-departamento-de-infraestructura-tecnologica\\Vistas\\Formularios\\frmConsumo.cs [Dise\u00F1o]*",
-              "RelativeToolTip": "Vistas\\Formularios\\frmConsumo.cs [Dise\u00F1o]*",
+              "ToolTip": "C:\\Users\\danie\\OneDrive\\Desktop\\Sistema-de-inventario-para-el-departamento-de-infraestructura-tecnologica\\Vistas\\Formularios\\frmConsumo.cs [Dise\u00F1o]",
+              "RelativeToolTip": "Vistas\\Formularios\\frmConsumo.cs [Dise\u00F1o]",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-07-24T07:29:09.42Z",
               "EditorCaption": " [Dise\u00F1o]"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 3,
               "Title": "frmLoginCorrecto.cs [Dise\u00F1o]",
               "DocumentMoniker": "C:\\Users\\danie\\OneDrive\\Desktop\\Sistema-de-inventario-para-el-departamento-de-infraestructura-tecnologica\\Vistas\\Formularios\\frmLoginCorrecto.cs",
               "RelativeDocumentMoniker": "Vistas\\Formularios\\frmLoginCorrecto.cs",
@@ -67,7 +84,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 4,
               "Title": "frmLoginError.cs [Dise\u00F1o]",
               "DocumentMoniker": "C:\\Users\\danie\\OneDrive\\Desktop\\Sistema-de-inventario-para-el-departamento-de-infraestructura-tecnologica\\Vistas\\Formularios\\frmLoginError.cs",
               "RelativeDocumentMoniker": "Vistas\\Formularios\\frmLoginError.cs",

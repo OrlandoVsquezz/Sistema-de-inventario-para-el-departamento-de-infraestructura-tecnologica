@@ -7,11 +7,11 @@
       "RelativeMoniker": "D:0:0:{7BAD4987-287B-4025-9131-59B43A434EF4}|Modelos\\Modelos.csproj|solutionrelative:modelos\\conexion\\conexion.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{4E25DF80-23A1-4C99-8052-ACFA19BE8221}|Vistas\\Vistas.csproj|c:\\users\\danie\\onedrive\\desktop\\sistema-de-inventario-para-el-departamento-de-infraestructura-tecnologica\\vistas\\formularios\\frmconsumo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "AbsoluteMoniker": "D:0:0:{4E25DF80-23A1-4C99-8052-ACFA19BE8221}|Vistas\\Vistas.csproj|C:\\Users\\danie\\OneDrive\\Desktop\\Sistema-de-inventario-para-el-departamento-de-infraestructura-tecnologica\\vistas\\formularios\\frmconsumo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
       "RelativeMoniker": "D:0:0:{4E25DF80-23A1-4C99-8052-ACFA19BE8221}|Vistas\\Vistas.csproj|solutionrelative:vistas\\formularios\\frmconsumo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{4E25DF80-23A1-4C99-8052-ACFA19BE8221}|Vistas\\Vistas.csproj|c:\\users\\danie\\onedrive\\desktop\\sistema-de-inventario-para-el-departamento-de-infraestructura-tecnologica\\vistas\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{4E25DF80-23A1-4C99-8052-ACFA19BE8221}|Vistas\\Vistas.csproj|C:\\Users\\danie\\OneDrive\\Desktop\\Sistema-de-inventario-para-el-departamento-de-infraestructura-tecnologica\\vistas\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{4E25DF80-23A1-4C99-8052-ACFA19BE8221}|Vistas\\Vistas.csproj|solutionrelative:vistas\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
@@ -40,7 +40,7 @@
               "RelativeDocumentMoniker": "Modelos\\Conexion\\conexion.cs",
               "ToolTip": "C:\\Users\\danie\\OneDrive\\Desktop\\Sistema-de-inventario-para-el-departamento-de-infraestructura-tecnologica\\Modelos\\Conexion\\conexion.cs",
               "RelativeToolTip": "Modelos\\Conexion\\conexion.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAAAEAAAAAAAAAAAAAABkAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-07-24T07:39:14.216Z",
               "EditorCaption": ""
@@ -55,8 +55,7 @@
               "RelativeToolTip": "Vistas\\Program.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAABMAAAAqAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-07-24T07:36:34.999Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-07-24T07:36:34.999Z"
             },
             {
               "$type": "Document",
@@ -67,8 +66,7 @@
               "ToolTip": "C:\\Users\\danie\\OneDrive\\Desktop\\Sistema-de-inventario-para-el-departamento-de-infraestructura-tecnologica\\Vistas\\Formularios\\frmConsumo.cs [Dise\u00F1o]",
               "RelativeToolTip": "Vistas\\Formularios\\frmConsumo.cs [Dise\u00F1o]",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-07-24T07:29:09.42Z",
-              "EditorCaption": " [Dise\u00F1o]"
+              "WhenOpened": "2025-07-24T07:29:09.42Z"
             },
             {
               "$type": "Document",
@@ -79,8 +77,7 @@
               "ToolTip": "C:\\Users\\danie\\OneDrive\\Desktop\\Sistema-de-inventario-para-el-departamento-de-infraestructura-tecnologica\\Vistas\\Formularios\\frmLoginCorrecto.cs [Dise\u00F1o]",
               "RelativeToolTip": "Vistas\\Formularios\\frmLoginCorrecto.cs [Dise\u00F1o]",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-07-24T05:52:37.7Z",
-              "EditorCaption": " [Dise\u00F1o]"
+              "WhenOpened": "2025-07-24T05:52:37.7Z"
             },
             {
               "$type": "Document",
@@ -91,8 +88,7 @@
               "ToolTip": "C:\\Users\\danie\\OneDrive\\Desktop\\Sistema-de-inventario-para-el-departamento-de-infraestructura-tecnologica\\Vistas\\Formularios\\frmLoginError.cs [Dise\u00F1o]",
               "RelativeToolTip": "Vistas\\Formularios\\frmLoginError.cs [Dise\u00F1o]",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-07-24T05:52:21.368Z",
-              "EditorCaption": " [Dise\u00F1o]"
+              "WhenOpened": "2025-07-24T05:52:21.368Z"
             }
           ]
         }
