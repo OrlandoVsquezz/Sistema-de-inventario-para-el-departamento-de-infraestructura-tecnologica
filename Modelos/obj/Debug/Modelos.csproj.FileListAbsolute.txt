@@ -1,0 +1,6 @@
+C:\Users\perez\OneDrive\Desktop\Sistema de Inventario Departamento de Infraestructura Tecnologica\Modelos\bin\Debug\Modelos.dll
+C:\Users\perez\OneDrive\Desktop\Sistema de Inventario Departamento de Infraestructura Tecnologica\Modelos\bin\Debug\Modelos.pdb
+C:\Users\perez\OneDrive\Desktop\Sistema de Inventario Departamento de Infraestructura Tecnologica\Modelos\obj\Debug\Modelos.csproj.AssemblyReference.cache
+C:\Users\perez\OneDrive\Desktop\Sistema de Inventario Departamento de Infraestructura Tecnologica\Modelos\obj\Debug\Modelos.csproj.CoreCompileInputs.cache
+C:\Users\perez\OneDrive\Desktop\Sistema de Inventario Departamento de Infraestructura Tecnologica\Modelos\obj\Debug\Modelos.dll
+C:\Users\perez\OneDrive\Desktop\Sistema de Inventario Departamento de Infraestructura Tecnologica\Modelos\obj\Debug\Modelos.pdb
