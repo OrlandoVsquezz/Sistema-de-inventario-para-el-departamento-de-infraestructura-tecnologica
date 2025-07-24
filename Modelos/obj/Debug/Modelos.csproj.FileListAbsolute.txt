@@ -1,0 +1,6 @@
+C:\Users\danie\Desktop\Sistema-de-inventario-para-el-departamento-de-infraestructura-tecnologica\Modelos\bin\Debug\Modelos.dll
+C:\Users\danie\Desktop\Sistema-de-inventario-para-el-departamento-de-infraestructura-tecnologica\Modelos\bin\Debug\Modelos.pdb
+C:\Users\danie\Desktop\Sistema-de-inventario-para-el-departamento-de-infraestructura-tecnologica\Modelos\obj\Debug\Modelos.csproj.AssemblyReference.cache
+C:\Users\danie\Desktop\Sistema-de-inventario-para-el-departamento-de-infraestructura-tecnologica\Modelos\obj\Debug\Modelos.csproj.CoreCompileInputs.cache
+C:\Users\danie\Desktop\Sistema-de-inventario-para-el-departamento-de-infraestructura-tecnologica\Modelos\obj\Debug\Modelos.dll
+C:\Users\danie\Desktop\Sistema-de-inventario-para-el-departamento-de-infraestructura-tecnologica\Modelos\obj\Debug\Modelos.pdb
